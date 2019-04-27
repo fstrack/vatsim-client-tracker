@@ -1,0 +1,26 @@
+{
+  "name": "vatsim-client-tracker",
+  "version": "0.0.1",
+  "description": "A proper TypeScript VATSIM client tracker.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "vatsim",
+    "flight",
+    "sim",
+    "flight",
+    "simulation",
+    "tracker",
+    "map"
+  ],
+  "author": "Chester Li <yectep@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1"
+  },
+  "devDependencies": {
+    "@types/isomorphic-fetch": "0.0.35"
+  }
+}
